@@ -1,6 +1,7 @@
 {t:Blessed Assurance}
 {st:Fanny J. Crosby}
 {key:D}
+{comment:Hebrews 10:22}
 
 Verse 1
 [D]Blessed assurance, [G]Jesus is [D]mine!
