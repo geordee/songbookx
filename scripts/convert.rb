@@ -14,18 +14,21 @@ filename = ARGV[0]
 song = IO.readlines(filename)
 
 songhub = []
-song.map(&:rstrip).reject(&:empty?).each_slice(2) do |(line1, line2)|
+song.map(&:rstrip).reject(&:empty?).each_slice(2) do |(chords, words)|
   line = []
   offset = 0
-  chords = recursive_partition(line1, /[A-Za-z0-9\#\/]+/).tap(&:pop)
-  chords.unshift('') if chords.first.strip.length != 0
-  chords.each_slice(2).with_index do |(seg1, seg2), index|
-    line << line2[offset, seg1.length]
-    line << "[#{seg2}]"
-    line << line2[offset + seg1.length, seg2.length]
-    offset += seg1.length + seg2.length
+  chords_array = recursive_partition(chords, /[A-Za-z0-9\#\/]+/).tap(&:pop)
+  chords_array.unshift('') if chords_array.first.strip.length != 0
+  chords_array.each_slice(2).with_index do |(seg_1, seg_2), index|
+    line << words.ljust(200)[offset, seg_1.length]
+    line << "[#{seg_2}]"
+    line << words[offset + seg_1.length, seg_2.length]
+    offset += seg_1.length + seg_2.length
   end
-  line << line2[offset..-1]
+  line << words[offset..-1]
   songhub << line.join
 end
-puts songhub
+
+songhub.each do |line|
+  puts line.rstrip
+end
