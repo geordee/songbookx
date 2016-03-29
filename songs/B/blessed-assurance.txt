@@ -1,0 +1,29 @@
+{t:Blessed Assurance}
+{st:Fanny J. Crosby}
+{key:D}
+
+Verse 1
+[D]Blessed assurance, [G]Jesus is [D]mine!
+O what a fore[A]taste of [E]glory di[A]vine!
+[D]Heir of salvation, [G]purchase of [D]God,
+Born of his Sp[Em]irit, was[A]hed in his [D]blood.
+
+Chorus
+{start_of_chorus}
+[D]This is my story, [G]this is my [D]song,
+Praising my [G]Sav[D]ior [E]all the day [A]long;
+[A7]This is my [D]story, [G]this is my [D]song,
+Praising my [Em]Savior [A]all the day [D]long.
+{end_of_chorus}
+
+Verse 2
+[D]Perfect submission, [G]perfect [D]delight,
+Visions of [A]rapture now [E]burst on my [A]sight;
+[D]Angels descending [G]bring from a[D]bove,
+Echoes of mer[Em]cy, whisp[A]ers of [D]love.
+
+Verse 3
+[D]Perfect submission, [G]all is at [D]rest;
+I in my Sav[A]ior am hap[E]py and ble[A]ssed,
+[D]Watching and waiting, [G]looking ab[D]ove,
+Filled with his good[Em]ness, lo[A]st in his [D]love.
