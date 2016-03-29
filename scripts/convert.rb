@@ -17,7 +17,7 @@ songhub = []
 song.map(&:rstrip).reject(&:empty?).each_slice(2) do |(line1, line2)|
   line = []
   offset = 0
-  chords = recursive_partition(line1, /[A-Za-z0-9]+/).tap(&:pop)
+  chords = recursive_partition(line1, /[A-Za-z0-9\#\/]+/).tap(&:pop)
   chords.unshift('') if chords.first.strip.length != 0
   chords.each_slice(2).with_index do |(seg1, seg2), index|
     line << line2[offset, seg1.length]
