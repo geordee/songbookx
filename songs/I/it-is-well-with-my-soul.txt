@@ -1,0 +1,34 @@
+{t:It Is Well With My Soul}
+{st:Horatio Spafford}
+{key:G}
+
+Verse 1
+When [G]peace, like a [Em]river, at[C]ten[D]deth my [G]way,
+When [Em]sorrows like [C]sea billows [D]roll;
+What[G]ever my [C]lot, thou hast [A2]taught me to [D]say,
+“It is [G]well, it is [C]well [D]with my[G] soul.”
+
+Chorus
+{start_of_chorus}
+It is [C]well
+[D]With my [G]soul
+It is [C]well, it is [D]well, with my [G]soul.
+{end_of_chorus}
+
+Verse 2
+Though [G]Satan should [Em]buffet, though [C]tria[D]ls should [G]come,
+Let [Em]this blest ass[C]urance cont[D]rol,
+That [G]Christ has reg[C]arded my [A2]helpless est[D]ate,
+And hath [G]shed his own [C]blood [D]for my s[G]oul.
+
+Verse 3
+My [G]sin, o, the [Em]bliss of this [C]glor[D]ious tho[G]ught!
+My [Em]sin, not in [C]part but the [D]whole
+Is [G]nailed to the [C]cross, and I [A2]bear it no m[D]ore,
+Praise [G]the Lord, praise the [C]Lord, [D]O my s[G]oul!
+
+Verse 4
+And, [G]Lord, haste the [Em]day when my [C]fai[D]th shall be [G]sight,
+The [Em]clouds be rolled [C]back as a sc[D]roll;
+The [G]trump shall re[C]sound, and the [A2]Lord shall de[D]scend,
+Even [G]so, it is [C]well [D]with my [G]soul.
