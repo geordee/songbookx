@@ -1,53 +1,39 @@
 {t:Mary’s Boy Child}
 {key:G}
+{tempo:120}
 
 Verse
-[G]Long time ago in [C]Bethle[Am]hem, so the [D]Holy Bible [G]says,
-[G]Mary’s boychild, [C]Jesus [Am]Christ, was [G]born on [D]Christmas [G]Day.
+[G]Long time ago in [C]Bethle[Am]hem,
+So the [D]Holy Bible [G]says,
+[G]Mary’s boychild, [C]Jesus [Am]Christ,
+Was [G]born on [D]Christmas [G]Day.
 
 Chorus
-[G]Hark now! [C]Hear the [D]Angels [G]sing, a [Em]King was [Am]born to[D]day,
-and [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
+[G]Hark now! [C]Hear the [D]Angels [G]sing,
+A [Em]King was [Am]born to[D]day,
+And [G]man will live for[C]ever [Am]more
+Be[G]cause of [D]Christmas [G]Day.
 
 Verse
 [G]While shepherds watch their [C]flocks by [Am]night,
-they see a [D]bright new shining [G]star.
+They see a [D]bright new shining [G]star.
 They hear a choir [C]sing a [Am]song,
-the music [G]seemed to [D]come from a[G]far.
-
-Chorus
-[G]Hark now! [C]Hear the [D]Angels [G]sing, a [Em]King was [Am]born to[D]day,
-and [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
+The music [G]seemed to [D]come from a[G]far.
 
 Verse
-[G]Now Joseph and his [C]wife, [Am]Mary, came to [D]Bethlehem that [G]night.
+[G]Now Joseph and his [C]wife, [Am]Mary,
+Came to [D]Bethlehem that [G]night.
 [G]They found no place to [C]bear the [Am]child,
-not a [G]single [D]room was in [G]sight.
-
-Chorus
-[G]Hark now! [C]Hear the [D]Angels [G]sing, a [Em]King was [Am]born to[D]day,
-and [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
+Not a [G]single [D]room was in [G]sight.
 
 Verse
-[G]Trumpets [C]sound and [D]Angels [G]sing…[Em]listen to [Am]what they [D]say,
-[D]that [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
-
-Chorus
-[G]Hark now! [C]Hear the [D]Angels [G]sing, a [Em]King was [Am]born to[D]day,
-and [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
+[G]Trumpets [C]sound and [D]Angels [G]sing,
+[Em]Listen to [Am]what they [D]say,
+[D]That [G]man will live for[C]ever [Am]more
+Be[G]cause of [D]Christmas [G]Day.
 
 Verse
-[G]And then they found a [C]little [Am]nook, in a [D]stable all for[G]lorn.
-[G]And in a manger, [C]cold and [Am]dark, Mary’s [G]little [D]boy was [G]born.
-
-Verse
-[G]Long time ago in [C]Bethle[Am]hem, so the [D]Holy Bible [G]says,
-[G]Mary’s boychild, [C]Jesus [Am]Christ, was [G]born on [D]Christmas [G]Day.
-
-Chorus
-[G]Hark now! [C]Hear the [D]Angels [G]sing, a [Em]King was [Am]born to[D]day,
-and [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
-
-Verse
-[G]Trumpets [C]sound and [D]Angels [G]sing…[Em]listen to [Am]what they [D]say,
-[D]that [G]man will live for[C]ever [Am]more be[G]cause of [D]Christmas [G]Day.
+[G]And then they found a [C]little [Am]nook,
+In a [D]stable all for[G]lorn.
+[G]And in a manger, [C]cold and [Am]dark,
+Mary’s [G]little [D]boy was [G]born.
